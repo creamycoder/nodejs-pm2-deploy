@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.mesto.creamycoder.nomorepartiessbs.ru/');
-  
+  const api = new Api('https://api.mesto.creamycoder.nomorepartiessbs.ru');
+
   export default api;
