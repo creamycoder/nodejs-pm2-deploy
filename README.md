@@ -1,3 +1,4 @@
-# Деплой приложения на сервер с использованием pm2
-
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+# **О сайте**
+**Публичный IP**: 158.160.209.219
+**Frontend**: [mesto frontend](mesto.creamycoder.nomorepartiessbs.ru)
+**Backend**:  [mesto backend](api.mesto.creamycoder.nomorepartiessbs.ru)
